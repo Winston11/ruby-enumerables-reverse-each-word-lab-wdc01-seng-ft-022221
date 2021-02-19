@@ -7,4 +7,4 @@ revers = ""
 reverse_array = array_of_string.collective{ |value| value.reverse }
 
 
-reverse = reverse_array.join
+reverse = reverse_array.join("")
